@@ -1,0 +1,23 @@
+{
+  "name": "car-app-react",
+  "version": "1.0.0",
+  "description": "Car App using React",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lacrimosia/Car-App-React.git"
+  },
+  "author": "Shatilla Prayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lacrimosia/Car-App-React/issues"
+  },
+  "homepage": "https://github.com/lacrimosia/Car-App-React#readme",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
